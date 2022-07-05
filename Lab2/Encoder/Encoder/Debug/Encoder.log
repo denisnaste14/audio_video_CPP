@@ -1,0 +1,11 @@
+﻿  Encoder.cpp
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(150,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(248,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(255,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(262,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(275,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(288,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Encoder\Encoder.cpp(301,20): warning C4018: '<': signed/unsigned mismatch
+  Encoder.vcxproj -> D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Encoder\Debug\Encoder.exe

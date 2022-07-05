@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encoder", "Encoder\Encoder.vcxproj", "{D783FAB7-92D4-4C49-B801-F4F85474FDD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D783FAB7-92D4-4C49-B801-F4F85474FDD3}.Debug|x64.ActiveCfg = Debug|x64
+		{D783FAB7-92D4-4C49-B801-F4F85474FDD3}.Debug|x64.Build.0 = Debug|x64
+		{D783FAB7-92D4-4C49-B801-F4F85474FDD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{D783FAB7-92D4-4C49-B801-F4F85474FDD3}.Debug|x86.Build.0 = Debug|Win32
+		{D783FAB7-92D4-4C49-B801-F4F85474FDD3}.Release|x64.ActiveCfg = Release|x64
+		{D783FAB7-92D4-4C49-B801-F4F85474FDD3}.Release|x64.Build.0 = Release|x64
+		{D783FAB7-92D4-4C49-B801-F4F85474FDD3}.Release|x86.ActiveCfg = Release|Win32
+		{D783FAB7-92D4-4C49-B801-F4F85474FDD3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFCB53E0-2585-46BA-A15F-E8E90AB40055}
+	EndGlobalSection
+EndGlobal

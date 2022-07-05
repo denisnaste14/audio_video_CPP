@@ -1,0 +1,11 @@
+﻿  Decoder.cpp
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(193,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(232,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(250,20): warning C4018: '<': signed/unsigned mismatch
+D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Decoder\Decoder.cpp(268,20): warning C4018: '<': signed/unsigned mismatch
+  Decoder.vcxproj -> D:\ubb_anul_III\Procesarea datelor audio-video\Lab2\Decoder\Debug\Decoder.exe
